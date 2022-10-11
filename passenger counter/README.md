@@ -1,3 +1,3 @@
-Passenger Counter
+Counter
 
-To count the number of people visiting for coming to a station or any location, to get a hold on number of people which were present, with some basics javascript 
+To count the number of people  or any other thing, to get a hold on numbers, with some basics javascript 
